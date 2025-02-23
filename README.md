@@ -25,7 +25,10 @@ pip install -r requirements.txt
    ```bash
    python main.py
    ```
-
+## Background Hotkey
+1. Press T to toggle the background
+2. Press Right/Left to change the background
+   
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
 
